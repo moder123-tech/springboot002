@@ -1,0 +1,24 @@
+2021-01-01 21:35:17.021  INFO 4012 --- [main] cn.com.Test                              : Starting Test on MS-AUWRDXENXBYP with PID 4012 (F:\SpringBoot\target\classes started by Administrator in F:\SpringBoot)
+2021-01-01 21:35:17.024  INFO 4012 --- [main] cn.com.Test                              : No active profile set, falling back to default profiles: default
+2021-01-01 21:35:17.731  INFO 4012 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-01-01 21:35:17.737  INFO 4012 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-01 21:35:17.738  INFO 4012 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-01-01 21:35:17.826  INFO 4012 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-01 21:35:17.826  INFO 4012 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 736 ms
+2021-01-01 21:35:17.955  INFO 4012 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-01 21:35:18.004  INFO 4012 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-01-01 21:35:18.113  WARN 4012 --- [main] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2021-01-01 21:35:18.147  INFO 4012 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-01-01 21:35:18.162  INFO 4012 --- [main] cn.com.Test                              : Started Test in 1.5 seconds (JVM running for 2.691)
+2021-01-01 21:35:42.802  INFO 12336 --- [main] cn.com.Test                              : Starting Test on MS-AUWRDXENXBYP with PID 12336 (F:\SpringBoot\target\classes started by Administrator in F:\SpringBoot)
+2021-01-01 21:35:42.804  INFO 12336 --- [main] cn.com.Test                              : No active profile set, falling back to default profiles: default
+2021-01-01 21:35:43.527  INFO 12336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-01-01 21:35:43.534  INFO 12336 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-01 21:35:43.534  INFO 12336 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-01-01 21:35:43.623  INFO 12336 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-01 21:35:43.624  INFO 12336 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 760 ms
+2021-01-01 21:35:43.754  INFO 12336 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-01 21:35:43.801  INFO 12336 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-01-01 21:35:43.925  WARN 12336 --- [main] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2021-01-01 21:35:43.960  INFO 12336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-01-01 21:35:43.977  INFO 12336 --- [main] cn.com.Test                              : Started Test in 1.522 seconds (JVM running for 2.673)

@@ -1,0 +1,35 @@
+server:
+  port: 8080
+person:
+  lastName: lisi
+  age: 18
+  boss: false
+  date: 2017/12/07
+  maps: {k1: v1,k2: v2}
+  lists:
+    - zhangsan
+    - zhaoliu
+  dog:
+    name: 小狗
+    age: 2
+logging:
+  file:
+    name: C:/springboot.log
+spring:
+  thymeleaf:
+    cache: false
+  redis:
+    host: 127.0.0.1
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true
+    contentnegotiation:
+      favor-parameter: true
+  security:
+    user:
+      name: user
+      password: user
+
+
+

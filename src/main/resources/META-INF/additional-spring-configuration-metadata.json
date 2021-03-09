@@ -1,0 +1,43 @@
+{
+  "properties": [
+    {
+      "name": "person",
+      "type": "java.lang.String",
+      "description": "Description for person."
+    },
+    {
+      "name": "person",
+      "type": "java.lang.String",
+      "description": "Description for person."
+    },
+    {
+      "name": "person",
+      "type": "java.lang.String",
+      "description": "Description for person."
+    },
+    {
+      "name": "person.lastName",
+      "type": "java.lang.String",
+      "description": "Description for person.lastName."
+    },
+    {
+      "name": "person.lastName",
+      "type": "java.lang.String",
+      "description": "Description for person.lastName."
+    },
+    {
+      "name": "person.lastName",
+      "type": "java.lang.String",
+      "description": "Description for person.lastName."
+    },
+    {
+      "name": "person.lastName",
+      "type": "java.lang.String",
+      "description": "Description for person.lastName."
+    },
+    {
+      "name": "spring.thymeleaf.content-type",
+      "type": "java.lang.String",
+      "description": "Description for spring.thymeleaf.content-type."
+    }
+  ] }
