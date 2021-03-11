@@ -8,6 +8,11 @@
   ],
   "properties": [
     {
+      "name": "mybatis",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.."
+    },
+    {
       "name": "person",
       "type": "java.lang.String",
       "description": "Description for person."

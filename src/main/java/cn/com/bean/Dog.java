@@ -1,5 +1,7 @@
 package cn.com.bean;
 
+import lombok.Data;
+
 import java.io.Serializable;
 
 /**
@@ -7,6 +9,7 @@ import java.io.Serializable;
  * @version 1.0
  * @date 2021/1/1 14:00
  */
+@Data
 public class Dog implements Serializable {
 
     private String name;
@@ -20,21 +23,7 @@ public class Dog implements Serializable {
     public Dog() {
     }
 
-    public String getName() {
-        return name;
-    }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
-    }
 
     @Override
     public String toString() {
